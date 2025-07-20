@@ -60,7 +60,7 @@ The protocol operates through a logical five-step process that adapts based on t
 
 If you use this protocol in your research or projects, please use the following citation:
 
-> Sasser, Daniel T. (2025). *Hyperlink Interpretation Protocol (HIP) v1.0*. Gorombo Agent Framework. Retrieved from [https://github.com/dansasser/HIP](https://github.com/dansasser/HIP)
+> Sasser, Daniel T. (2025). *Hyperlink Interpretation Protocol (HIP) v1.0*. Gorombo Agent Framework. Retrieved from [https://github.com/dansasser/hip-protocol](https://github.com/dansasser/hip-protocol)
 
 ---
 
